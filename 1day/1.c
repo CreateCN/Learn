@@ -1,4 +1,9 @@
 #include <stdio.h>
+/*
+xx.h为头文件，用于导入内置/外部库，
+其中stdio.h全称为Standard Input Output Header，
+用于捕获来自键盘、文件的数据，然后在终端输出
+*/
 
 int main() {
     int amount = 0;
