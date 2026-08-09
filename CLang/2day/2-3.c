@@ -10,4 +10,5 @@ int main() {
     a = b;
     b = c;
     printf("法1：a=%d，b=%d\n",a,b);
+    return 0;
 }
